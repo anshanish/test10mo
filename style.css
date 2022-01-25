@@ -1,0 +1,17 @@
+body {
+    font-size: 15pt;
+  background: linear-gradient(#1E31F8,#6A1EF8);
+  background-repeat: no-repeat;
+  background-size: 100vw 100vh;
+  color: #FFFFFF;
+  font-weight: bolder;    
+  
+}
+p{
+  font-size: 4rem;
+  text-align: center;
+  border: 2px black;
+}
+h1{
+  text-align: center;
+}
